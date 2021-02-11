@@ -1,0 +1,13 @@
+let a = 1;
+let b ='hello';
+let c = null;
+let d = true;
+let e;
+let f ={name:'Vasya'};
+alert(a);
+alert(b);
+alert(c);
+alert(d);
+alert(e);
+alert(f);
+console.log(f);
